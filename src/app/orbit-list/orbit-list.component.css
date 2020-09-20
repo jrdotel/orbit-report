@@ -4,7 +4,7 @@
 }
 
 .warning {
-    background-color: red;
+    background-color: rgb(206, 108, 108);
 }
 
 table {
@@ -13,7 +13,7 @@ table {
   overflow: hidden;
   margin: 12px 0;
   min-width: 300px;
-  background: rgb(85, 101, 155);
+  background: rgb(15, 25, 56);
 }
 
 .header-row {
