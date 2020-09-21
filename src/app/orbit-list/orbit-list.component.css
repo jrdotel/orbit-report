@@ -1,19 +1,19 @@
 .sortable {
     cursor: pointer;
-    color: #dd5;
+    color: rgb(253, 255, 122);
 }
 
 .warning {
-    background-color: rgb(206, 108, 108);
+    background-color: rgb(253, 189, 189);
 }
 
 table {
-  color: rgb(255, 255, 255);
+  color: black;
   border-radius: 5px;
   overflow: hidden;
   margin: 12px 0;
   min-width: 300px;
-  background: rgb(15, 25, 56);
+  background: white;
 }
 
 .header-row {
@@ -26,3 +26,8 @@ th, td {
     margin: 5px 10px;
     padding: 6px;
 }
+
+.stripe {
+    background-color: hsl(222, 100%, 90%);
+    color: black;
+  }

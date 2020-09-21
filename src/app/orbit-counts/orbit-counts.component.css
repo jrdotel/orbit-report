@@ -1,0 +1,21 @@
+.counts {
+    background: hsl(222, 100%, 90%);
+    color: black;
+    border-radius: 15px;
+    overflow: hidden;
+    margin: 20px 0;
+    width: 225px;
+}
+
+.counts div {
+    padding: 8px;
+}
+
+.counts span {
+    float: right;
+}
+
+.header {
+    background-color: #34495E;
+    color: white;
+}
